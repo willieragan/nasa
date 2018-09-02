@@ -1,0 +1,40 @@
+.flex-container{
+  margin-top: 20px;
+  width: 850px;
+  display: flex;
+  flex-direction: row;
+  background-color: #f1f1f1;
+}
+.box1{
+  background-color: #f1f1f1;
+  width: 270px;
+  margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+}
+.box2{
+  background-color: #f1f1f1;
+  width: 270px;
+  margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+}
+.box3{
+  background-color: #f1f1f1;
+  width: 270px;
+  margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+}
+.nasa{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50% , -50%);
+  color: white;
+  font-size: 60px;
+}
+.image{
+  text-align: center;
+  position: relative;
+}
